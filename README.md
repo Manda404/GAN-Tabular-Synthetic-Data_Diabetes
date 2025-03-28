@@ -1,1 +1,1 @@
-# GAN-Tabular-Synthetic-Data_Diabetes
+# GAN(Generative Adversarial Network) Tabular Synthetic Data Diabetes
